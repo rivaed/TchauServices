@@ -1,7 +1,7 @@
 
 # Desativar Serviços Desnecessários no Windows
 
-** AVISO LEGAL:**  
+**AVISO LEGAL:**  
 Este procedimento é destinado a técnicos de informática, administradores de sistemas e usuários avançados.  
 **Desativar serviços incorretamente pode afetar o funcionamento do sistema.**  
 Use este material com responsabilidade e sempre em ambientes autorizados.
