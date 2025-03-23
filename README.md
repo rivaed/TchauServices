@@ -61,7 +61,7 @@ Set-Service -Name "SysMain" -StartupType Disabled
 
 ---
 
-## ✅ Sugestão: Script PowerShell
+## Sugestão: Script PowerShell
 
 ```powershell
 $services = @(
