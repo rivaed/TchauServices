@@ -109,4 +109,3 @@ Não aplique mudanças críticas em sistemas corporativos sem planejamento e aut
 
 Distribuído sob a licença [MIT](LICENSE).  
 Conteúdo fornecido "como está", sem garantias.
-```
