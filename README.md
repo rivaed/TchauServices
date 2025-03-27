@@ -110,7 +110,3 @@ Não aplique mudanças críticas em sistemas corporativos sem planejamento e aut
 Distribuído sob a licença [MIT](LICENSE).  
 Conteúdo fornecido "como está", sem garantias.
 ```
-
----
-
-Quer que eu continue com o `3. windows-reset-bios-password` agora?
